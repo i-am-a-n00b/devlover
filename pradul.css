@@ -9,13 +9,15 @@ body{font-family: 'Open Sans', sans-serif;}
 .text-primary{color: deepskyblue;}
 nav > ul{display: flex;}
 nav li{list-style: none;
-margin-right: 60px}
+margin-right: 60px
+padding:200px}
 
 nav a{text-decoration: none;
 color: rgb(37, 220, 20);}
 
 nav li{list style: none
     margin-right: 60px;
+    
     
 
 }
@@ -24,9 +26,17 @@ nav li{list style: none
     background-color: brown;
     font-size: 30px;
     font-weight: 800px;
-    color:aliceblue
+    color:aliceblue;
+    display: flex;
+    
 }
 nav{display: flex;
 justify-content: space-around;}
 nav ul{display:flex;
-    align-items: center;}
+    align-items: center;
+margin: 0 200px;}
+    .header{background-color: blanchedalmond;}
+    .banner{padding: 30px 30px 30px 150px;
+    display: flex;}
+    .banner.profile-pic{width:500px}
+
