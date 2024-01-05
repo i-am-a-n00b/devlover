@@ -1,0 +1,32 @@
+nav{display: flex;}
+
+body{font-family: 'Open Sans', sans-serif;}
+.nav-title{
+    color: black;
+    font-size: 45px;
+    font-weight: 800;
+}
+.text-primary{color: deepskyblue;}
+nav > ul{display: flex;}
+nav li{list-style: none;
+margin-right: 60px}
+
+nav a{text-decoration: none;
+color: rgb(37, 220, 20);}
+
+nav li{list style: none
+    margin-right: 60px;
+    
+
+}
+.btn-primary{
+    border-radius: 6px;
+    background-color: brown;
+    font-size: 30px;
+    font-weight: 800px;
+    color:aliceblue
+}
+nav{display: flex;
+justify-content: space-around;}
+nav ul{display:flex;
+    align-items: center;}
